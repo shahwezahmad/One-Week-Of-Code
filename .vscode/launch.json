@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch GoodPairs",
+            "request": "launch",
+            "mainClass": "arrays.GoodPairs",
+            "projectName": "DSA_4bbac467"
+        },
+        {
+            "type": "java",
             "name": "Launch Current File",
             "request": "launch",
             "mainClass": "${file}"
