@@ -1,0 +1,63 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch GreatestCandies",
+            "request": "launch",
+            "mainClass": "GreatestCandies",
+            "projectName": "DSA_4bbac467"
+        },
+        {
+            "type": "java",
+            "name": "Launch BuildArray",
+            "request": "launch",
+            "mainClass": "arrays.BuildArray",
+            "projectName": "DSA_4bbac467"
+        },
+        {
+            "type": "java",
+            "name": "Launch Concatination",
+            "request": "launch",
+            "mainClass": "arrays.Concatination",
+            "projectName": "DSA_4bbac467"
+        },
+        {
+            "type": "java",
+            "name": "Launch GreatestCandies(1)",
+            "request": "launch",
+            "mainClass": "arrays.GreatestCandies",
+            "projectName": "DSA_4bbac467"
+        },
+        {
+            "type": "java",
+            "name": "Launch RichestWealth",
+            "request": "launch",
+            "mainClass": "arrays.RichestWealth",
+            "projectName": "DSA_4bbac467"
+        },
+        {
+            "type": "java",
+            "name": "Launch RunningSum",
+            "request": "launch",
+            "mainClass": "arrays.RunningSum",
+            "projectName": "DSA_4bbac467"
+        },
+        {
+            "type": "java",
+            "name": "Launch ShuffleArray",
+            "request": "launch",
+            "mainClass": "arrays.ShuffleArray",
+            "projectName": "DSA_4bbac467"
+        }
+    ]
+}
